@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yuhang/fyp_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/yuhang/fyp_ws/src/yuhang/arq_gazebo/include/**",
+                "/home/yuhang/fyp_ws/src/gazebo_grasp_plugin/include/**",
+                "/home/yuhang/fyp_ws/src/robotiq_85_gripper/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+                "/home/yuhang/fyp_ws/src/yuhang/robotiq/robotiq_gazebo/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

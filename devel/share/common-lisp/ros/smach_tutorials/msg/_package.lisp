@@ -1,0 +1,19 @@
+(cl:defpackage smach_tutorials-msg
+  (:use )
+  (:export
+   "<TESTACTION>"
+   "TESTACTION"
+   "<TESTACTIONFEEDBACK>"
+   "TESTACTIONFEEDBACK"
+   "<TESTACTIONGOAL>"
+   "TESTACTIONGOAL"
+   "<TESTACTIONRESULT>"
+   "TESTACTIONRESULT"
+   "<TESTFEEDBACK>"
+   "TESTFEEDBACK"
+   "<TESTGOAL>"
+   "TESTGOAL"
+   "<TESTRESULT>"
+   "TESTRESULT"
+  ))
+
